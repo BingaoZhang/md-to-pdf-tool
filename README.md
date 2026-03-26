@@ -5,6 +5,15 @@
 - 命令行版（`md_to_pdf.py` / `md_to_pdf.exe`）
 - 图形界面版（`md_to_pdf_gui.py` / `md_to_pdf_gui.exe`）
 
+## 下载附件
+
+- 仓库地址：<https://github.com/BingaoZhang/md-to-pdf-tool>
+- Release 页面：<https://github.com/BingaoZhang/md-to-pdf-tool/releases/tag/v1.0.0>
+- GUI 可执行文件：<https://github.com/BingaoZhang/md-to-pdf-tool/releases/download/v1.0.0/md_to_pdf_gui.exe>
+
+说明：
+- 当前 Release 已上传 GUI 版可执行文件 `md_to_pdf_gui.exe`
+- CLI 版 `md_to_pdf.exe` 如需下载，可后续单独补传
 ## 目录结构
 
 - `md_to_pdf.py`：核心转换逻辑（CLI）
